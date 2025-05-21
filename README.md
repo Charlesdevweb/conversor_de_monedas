@@ -9,7 +9,8 @@ Contiene un menú interactivo en consola donde se puede elegir entre comparacion
 Redondeo de resultados a 2 decimales.
 Validación de entradas incorrectas.  
 
-**Tecnologías utilizadas:** 
+**Tecnologías utilizadas:**  
+
 Java 17+
 API de tasas de cambio (real o simulada)
 Programación orientada a objetos
