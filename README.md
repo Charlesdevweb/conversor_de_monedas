@@ -14,7 +14,8 @@ Validación de entradas incorrectas.
 Java 17+
 API de tasas de cambio (real o simulada)
 Programación orientada a objetos
-Uso de Scanner, Map, Switch, y bucles.  
+Uso de Scanner, Map, Switch, bucles y librería GSON.  
+
 
 **Estructura básica:**  
 
